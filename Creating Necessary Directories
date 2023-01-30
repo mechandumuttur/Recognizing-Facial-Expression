@@ -1,0 +1,2 @@
+%cd facial_expressions/
+%mkdir -p data_set/{anger,happy,netural,sad,surprise}
