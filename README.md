@@ -1,2 +1,4 @@
 # Recognizing-Facial-Expression
-Collecting Images with Expressions Detecting Faces in the Images and saving them Training our classifier on the Faces Recognition of expression in new Images
+
+In the project we are collecting images, based on the expression in the image we are telling how much percent the person is happy,angry,sad..
+And we have used Python for this project.
